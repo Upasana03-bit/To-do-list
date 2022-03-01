@@ -27,15 +27,12 @@ Used HTML5, CSS3, Bootstrap, Node.js, Express.js, MongoDB (mongoose), EJS templa
 
 # Screenshots
 
-![](images/default.png)
+![SS](https://github.com/Upasana03-bit/To-do-list/blob/master/images/Todolist.PNG?raw=true)
 
-![](images/type-list.png)
+![SS1](https://github.com/Upasana03-bit/To-do-list/blob/master/images/Todolist1.PNG?raw=true)
 
-![](images/list-added.png)
+![SS2](https://github.com/Upasana03-bit/To-do-list/blob/master/images/Todolist2.PNG?raw=true)
 
-![](images/strikethrough.png)
+# App Deployed
 
-![](images/item-deleted.png)
-
-![](images/work-list.png)
-_An example to open a new To-Do List to add items based on work_
+https://fierce-caverns-85985.herokuapp.com/
